@@ -1,3 +1,4 @@
-com\qualizeal\javaapp\mainprogram\Program.class
 com\qualizeal\javaapp\App.class
+com\qualizeal\javaapp\mainprogram\Program.class
+com\qualizeal\javaapp\mathematics\Multiplication.class
 com\qualizeal\javaapp\mathematics\Division.class
